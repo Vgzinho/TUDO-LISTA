@@ -1,0 +1,70 @@
+body{
+    background-color: #9b980338;
+}
+
+    
+h1{
+    background-color: rgb(175, 88, 37);
+    color: #ffffff;
+    border-radius: 10px;
+    text-align: center;
+}
+#inpute{
+    width: 200px;
+    height: 30px;
+}
+#botao{
+
+    font-weight: bold;
+}
+.button{
+    
+    width: 10px;
+    height: 15px;
+}
+
+.campo-inpute{
+    
+    display: flex;
+    justify-content: center;
+}
+ul{
+
+   
+    list-style-type: none;
+
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(175, 88, 37);
+}
+
+li{
+    color: #fdfdfd;
+    background-image: url(/istockphoto-173240105-1024x1024.jpg);
+
+background-size: 25px;
+background-repeat: no-repeat;
+background-position: left center;
+    font-size: larger;
+    font-weight: bold;
+    
+}
+li>button{
+
+    height: 30px;
+    border-radius: 5%;
+    margin-left: 100px;
+}
+
+.remover{
+    width: 23px;
+    height: 23px;
+    border: none;
+background-image: url('delete-cross\ \(1\).png');
+background-size: cover;
+display: inline-block;
+
+
+
+
+} 
